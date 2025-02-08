@@ -9,6 +9,7 @@ export default {
     facebook: 'rgb(27, 117, 214)',
     google: 'rgb(221,80,54)',
     disabled: 'rgb(200, 200, 200)',
+    disabledLight: 'rgb(234, 229, 229)',
     messageSender: 'rgb(235, 231, 231)',
     messageReceiver: 'rgb(86, 153, 221)',
     warning: 'rgb(252, 177,0)',
@@ -16,4 +17,10 @@ export default {
     alert: 'rgb(236,69,90)',
     inactive: 'rgb(136, 136, 136)',
     pink_ligth: 'rgb(228, 219, 243)',
-}
+    blue_light: 'rgb(226,233,251)',
+    yellow: 'rgb(255, 255, 0)',
+    blue_border: 'rgb(230, 243, 250)',
+    pink_orange: 'rgb(255, 204, 153)', // rgb(255,204,188)
+    purple_light: 'rgb(243,229,245)',
+
+};
